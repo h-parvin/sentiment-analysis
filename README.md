@@ -1,2 +1,5 @@
 # sentiment-analysis
-we prosed a new sentiment analysis model
+To train the model, run the following command:
+train.py
+To test the model. run the following command:
+test.py
